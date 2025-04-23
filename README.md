@@ -18,6 +18,10 @@ This project was originally created during the **DC Python Dojo** event hosted b
 
 ---
 
+
+https://github.com/user-attachments/assets/202e3ae0-1ad3-4cf4-aee1-b2e9f5088f1b
+
+
 ## 📸 Screenshot
 
 *(insert screenshot of it running in Colab with some funny generated result)*
@@ -42,6 +46,9 @@ This project was originally created during the **DC Python Dojo** event hosted b
 5. 🤯 Laugh at your absurd creation
 
 ---
+
+<img width="1710" alt="Screenshot 2025-04-22 at 10 15 39 PM" src="https://github.com/user-attachments/assets/6a94a7f8-e4a2-423c-a912-428eb294ed5b" />
+
 
 ## 🧨 Example Output
 
